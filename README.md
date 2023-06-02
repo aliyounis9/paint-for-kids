@@ -26,7 +26,7 @@ programming principles such as inheritance, polymorphism, and encapsulation.
 ## Features <a name = "features"></a>
 The game consists of two modes as follows:
 * Draw Mode features include:
-  * Add Figures (Rectangle; Square; Triangle; Hexagon; Circle)
+  * Add Figures (rectangle; square; triangle; hexagon; circle)
   * Change Figure Drawing/Filling Color(s)
   * Delete Figures
   * Move Figures
